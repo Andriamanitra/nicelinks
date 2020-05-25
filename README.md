@@ -16,6 +16,8 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [rentry.co](https://rentry.co/) - Extremely nice Markdown pastebin
 
+[fluffy.cc](https://fluffy.cc/) - Pastebin and file uploads
+
 [tldr pages](https://tldr.ostera.io/) - Simplified man pages with practical examples
 
 [viz-js](http://viz-js.com/) - Graphviz in the browser
