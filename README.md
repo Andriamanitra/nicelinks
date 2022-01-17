@@ -12,7 +12,7 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [JS Paint](https://jspaint.app/) - Fully functional Microsoft Paint clone, inside the browser
 
-[dpaste.org](https://dpaste.org/) - Minimalist pastebin
+[bpa.st](https://bpa.st/) - Pastebin with syntax highlighting for wide variety of languages, and no trackers or other nonsense
 
 [rentry.co](https://rentry.co/) - Extremely nice Markdown pastebin
 
@@ -25,6 +25,8 @@ A collection of exceptionally nice free stuff I have come across around the web
 [YTLooper](https://andriamanitra.github.io/YTLooper) - Loop part of YouTube video with sub-second precision (made by me!)
 
 [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent
+
+[Try It Online](https://tio.run/#) - Try hundreds of different programming languages in browser, with support for input from stdin and command line arguments
 
 
 ## Web games
