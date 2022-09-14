@@ -28,6 +28,8 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [Try It Online](https://tio.run/#) - Try hundreds of different programming languages in browser, with support for input from stdin and command line arguments
 
+[Excalidraw](https://excalidraw.com/) - Great minimalistic tool for drawing quick sketches
+
 
 ## Web games
 
