@@ -30,6 +30,8 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [Excalidraw](https://excalidraw.com/) - Great minimalistic tool for drawing quick sketches
 
+[grep.app](https://grep.app/) - Github code search
+
 
 ## Web games
 
@@ -38,3 +40,10 @@ A collection of exceptionally nice free stuff I have come across around the web
 [Minesweeper](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mines.html) - Minesweeper guaranteed to be solvable by deduction
 
 [Minesweeper Multiplayer](https://minesweeper-multiplayer.dk/) - Minesweeper for 2-6 players
+
+
+## Other
+
+[Tatoeba](https://tatoeba.org/) - Large collection of sentences and translations (with permissive licences)
+
+[code.golf](https://code.golf) - Open source website for solving coding problems in as few characters as possible
