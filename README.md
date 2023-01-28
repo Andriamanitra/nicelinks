@@ -26,11 +26,18 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent
 
-[Try It Online](https://tio.run/#) - Try hundreds of different programming languages in browser, with support for input from stdin and command line arguments
-
 [Excalidraw](https://excalidraw.com/) - Great minimalistic tool for drawing quick sketches
 
+
+## Programming
+
+[Try It Online](https://tio.run/#) - Try hundreds of different programming languages in browser, with support for input from stdin and command line arguments
+
 [grep.app](https://grep.app/) - Github code search
+
+[devdocs.io](https://devdocs.io/) - Searchable docs for a wide variety programming languages and libraries
+
+[code.golf](https://code.golf) - Open source website for solving coding problems in as few characters as possible
 
 
 ## Web games
@@ -45,5 +52,3 @@ A collection of exceptionally nice free stuff I have come across around the web
 ## Other
 
 [Tatoeba](https://tatoeba.org/) - Large collection of sentences and translations (with permissive licences)
-
-[code.golf](https://code.golf) - Open source website for solving coding problems in as few characters as possible
