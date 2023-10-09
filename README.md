@@ -39,6 +39,8 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [code.golf](https://code.golf) - Open source website for solving coding problems in as few characters as possible
 
+[float.exposed](https://float.exposed/) - Visualize and play around with bit representations of floating point numbers
+
 
 ## Web games
 
