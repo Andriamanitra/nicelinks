@@ -54,3 +54,5 @@ A collection of exceptionally nice free stuff I have come across around the web
 ## Other
 
 [Tatoeba](https://tatoeba.org/) - Large collection of sentences and translations (with permissive licences)
+
+[Standard Ebooks](https://standardebooks.org/) - Collection of nicely formatted public domain e-books
