@@ -28,6 +28,8 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [Excalidraw](https://excalidraw.com/) - Great minimalistic tool for drawing quick sketches
 
+[Wakamai Fondue](https://wakamaifondue.com/) - Tool for inspecting font features (useful for [variable fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts/Variable_fonts_guide))
+
 
 ## Programming
 
