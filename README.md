@@ -16,8 +16,6 @@ A collection of exceptionally nice free stuff I have come across around the web
 
 [rentry.co](https://rentry.co/) - Extremely nice Markdown pastebin
 
-[fluffy.cc](https://fluffy.cc/) - Pastebin and file uploads
-
 [tldr InBrowser.App](https://tldr.inbrowser.app/) - Short form documentation for wide variety of command line tools
 
 [viz-js](http://viz-js.com/) - Graphviz in the browser
