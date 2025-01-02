@@ -56,3 +56,5 @@ A collection of exceptionally nice free stuff I have come across around the web
 [Tatoeba](https://tatoeba.org/) - Large collection of sentences and translations (with permissive licences)
 
 [Standard Ebooks](https://standardebooks.org/) - Collection of nicely formatted public domain e-books
+
+[Every Noise at Once](https://everynoise.com) - Great way to discover music from thousands of different genres
